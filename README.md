@@ -1,16 +1,24 @@
-## Hi there 👋
+# André Codato 👋
+**Next.js Developer (TypeScript)** — foco em apps web rápidos, bonitos e fáceis de manter.
 
-<!--
-**andrecodato/andrecodato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Next.js (App Router), React, Tailwind
+- 🔐 Auth (NextAuth / JWT), PostgreSQL + Prisma
+- 🚀 Deploy: Vercel / Docker
+- 📍 Umuarama, PR — aberto a remoto
 
-Here are some ideas to get you started:
+## Projetos em destaque
+- **Project A (SaaS Dashboard)** — auth, CRUD, charts, roles  
+  Demo: <link> • Repo: <link>
+- **Project B (Landing + CMS)** — SEO, performance, componentes reutilizáveis  
+  Demo: <link> • Repo: <link>
+- **Project C (E-commerce checkout mock)** — carrinho, pagamentos (mock), UI states  
+  Demo: <link> • Repo: <link>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que eu entrego
+- Landing pages com SEO/performance
+- Dashboards com autenticação + painel admin
+- Integrações com APIs e bancos (Postgres/Prisma)
+
+## Contato
+- LinkedIn: <link>
+- Email: <email>
