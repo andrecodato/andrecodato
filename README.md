@@ -17,8 +17,8 @@
 ## O que eu entrego
 - Landing pages com SEO/performance
 - Dashboards com autenticação + painel admin
-- Integrações com APIs e bancos (Postgres/Prisma)
+- Integrações com APIs e bancos (Postgres/Prisma/TypeORM/NestJS)
 
 ## Contato
-- LinkedIn: <link>
-- Email: <email>
+- LinkedIn: [<link>](https://www.linkedin.com/in/andrecodato/)
+- Email: andrecodato@gmail.com
