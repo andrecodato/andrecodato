@@ -7,12 +7,8 @@
 - 📍 Umuarama, PR — aberto a remoto
 
 ## Projetos em destaque
-- **Project A (SaaS Dashboard)** — auth, CRUD, charts, roles  
-  Demo: <link> • Repo: <link>
-- **Project B (Landing + CMS)** — SEO, performance, componentes reutilizáveis  
-  Demo: <link> • Repo: <link>
-- **Project C (E-commerce checkout mock)** — carrinho, pagamentos (mock), UI states  
-  Demo: <link> • Repo: <link>
+- **Koda Create (SaaS Dashboard)** — auth, CRUD, charts, roles  
+  Demo: [<link>](https://www.kodacreate.com.br/) • Repo: Privado 🔒
 
 ## O que eu entrego
 - Landing pages com SEO/performance
