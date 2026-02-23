@@ -8,7 +8,7 @@
 
 ## Projetos em destaque
 - **Koda Create (Landing Page)** — Next.js / Tailwind / Framer-motion  
-  Demo: [<link>](https://www.kodacreate.com.br/) • Repo: Privado 🔒
+  Demo: https://www.kodacreate.com.br/ • Repo: Privado 🔒
 
 ## O que eu entrego
 - Landing pages com SEO/performance
