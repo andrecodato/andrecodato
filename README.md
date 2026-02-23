@@ -7,7 +7,7 @@
 - 📍 Umuarama, PR — aberto a remoto
 
 ## Projetos em destaque
-- **Koda Create (SaaS Dashboard)** — auth, CRUD, charts, roles  
+- **Koda Create (Landing Page)** — Next.js / Tailwind / Framer-motion  
   Demo: [<link>](https://www.kodacreate.com.br/) • Repo: Privado 🔒
 
 ## O que eu entrego
