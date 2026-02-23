@@ -16,5 +16,5 @@
 - Integrações com APIs e bancos (Postgres/Prisma/TypeORM/NestJS)
 
 ## Contato
-- LinkedIn: [<link>](https://www.linkedin.com/in/andrecodato/)
+- LinkedIn: https://www.linkedin.com/in/andrecodato/
 - Email: andrecodato@gmail.com
