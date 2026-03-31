@@ -9,9 +9,9 @@
 ## Projetos em destaque
 - **Koda Create (Landing Page)** — Next.js / Tailwind / Framer-motion  
   Live: https://www.kodacreate.com.br/ • Repo: Privado 🔒
-- **Dojjo (E-Commerce)** - Liquid / Css / Bling / Melhor envio
+- **Dojjo (E-Commerce)** - Liquid / Css / Bling / Melhor envio  
   Live: https://www.dojjosp.com.br/
-- **Meu portifólio** - Next.js / Tailwind / MDX
+- **Meu portifólio** - Next.js / Tailwind / MDX  
   Live: https://codato.dev/ • Repo: https://github.com/andrecodato/portfolio
 
 ## O que eu entrego
