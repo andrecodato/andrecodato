@@ -22,3 +22,5 @@
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/andrecodato/
 - Email: andrecodato@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecodato)](https://github.com/anuraghazra/github-readme-stats)
